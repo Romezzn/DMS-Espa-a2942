@@ -184,7 +184,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	/*Mine settings*/
 
 	DMS_MinPlayerCount					= 1; 						// Minimum number of players until mission start
-	DMS_MinServerFPS					= 20; 						// Minimum server FPS for missions to start
+	DMS_MinServerFPS					= 25; 						// Minimum server FPS for missions to start
 
 	/*Mission notification settings*/
 	DMS_PlayerNotificationTypes =		[									// Notification types. Supported values are: ["dynamicTextRequest", "standardHintRequest", "systemChatRequest", "textTilesRequest", "ExileToasts"]. Details below.
